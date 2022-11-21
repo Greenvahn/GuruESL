@@ -9,5 +9,7 @@ module.exports = {
   variants: {
     fill: ['hover', 'focus'], // this line does the trick
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/forms')
+  ],
 }

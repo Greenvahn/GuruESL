@@ -1,12 +1,15 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+import Baseroutes from './components/routes';
 import './App.css';
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold">
-      Hello world!
-    </h1>
-
+    <>
+      <BrowserRouter>
+        <Baseroutes />
+      </BrowserRouter>
+    </>
   );
 }
 
