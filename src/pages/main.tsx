@@ -1,7 +1,7 @@
 import Footer from '../components/footer';
-import Header from './../components/header'
+import Header from '../components/header'
 
-const Main = (props) => {
+const Main = () => {
   
 
   return (

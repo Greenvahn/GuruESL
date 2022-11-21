@@ -3,7 +3,7 @@ import Home from "../pages/home";
 import Main from "../pages/main";
 import Notfound from "../pages/notfound";
 
-const Baseroutes = (props) => {
+const Baseroutes = () => {
   const location = useLocation();
 
   return (
