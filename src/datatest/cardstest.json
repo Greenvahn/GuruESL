@@ -1,0 +1,136 @@
+{
+  "cards": [
+    {
+      "name": "Gardener of Swords",
+      "rarity": "Rare",
+      "type": "Creature",
+      "subtypes": [
+        "Redguard"
+      ],
+      "cost": 3,
+      "power": 1,
+      "health": 1,
+      "set": {
+        "id": "mc",
+        "name": "Madhouse Collection",
+        "_self": "https://api.elderscrollslegends.io/v1/sets/mc"
+      },
+      "collectible": true,
+      "soulSummon": "This card belongs to the Madhouse Collection and cannot be Soul Summoned.",
+      "soulTrap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
+      "text": "When you equip an item to another creature, equip a copy of it to Gardener of Swords.",
+      "attributes": [
+        "Intelligence"
+      ],
+      "unique": false,
+      "imageUrl": "https://images.elderscrollslegends.io/mc/gardener_of_swords.png",
+      "id": "3382b01794f9efb0fe9eb23490edc097921b526f"
+    },
+    {
+      "name": "Gardener of Swords",
+      "rarity": "Rare",
+      "type": "Creature",
+      "subtypes": [
+        "Redguard"
+      ],
+      "cost": 3,
+      "power": 1,
+      "health": 1,
+      "set": {
+        "id": "mc",
+        "name": "Madhouse Collection",
+        "_self": "https://api.elderscrollslegends.io/v1/sets/mc"
+      },
+      "collectible": true,
+      "soulSummon": "This card belongs to the Madhouse Collection and cannot be Soul Summoned.",
+      "soulTrap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
+      "text": "When you equip an item to another creature, equip a copy of it to Gardener of Swords.",
+      "attributes": [
+        "Intelligence"
+      ],
+      "unique": false,
+      "imageUrl": "https://images.elderscrollslegends.io/mc/gardener_of_swords.png",
+      "id": "3382b01794f9efb0fe9eb23490edc097921b526f"
+    },
+    {
+      "name": "Gardener of Swords",
+      "rarity": "Rare",
+      "type": "Creature",
+      "subtypes": [
+        "Redguard"
+      ],
+      "cost": 3,
+      "power": 1,
+      "health": 1,
+      "set": {
+        "id": "mc",
+        "name": "Madhouse Collection",
+        "_self": "https://api.elderscrollslegends.io/v1/sets/mc"
+      },
+      "collectible": true,
+      "soulSummon": "This card belongs to the Madhouse Collection and cannot be Soul Summoned.",
+      "soulTrap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
+      "text": "When you equip an item to another creature, equip a copy of it to Gardener of Swords.",
+      "attributes": [
+        "Intelligence"
+      ],
+      "unique": false,
+      "imageUrl": "https://images.elderscrollslegends.io/mc/gardener_of_swords.png",
+      "id": "3382b01794f9efb0fe9eb23490edc097921b526f"
+    },
+    {
+      "name": "Gardener of Swords",
+      "rarity": "Rare",
+      "type": "Creature",
+      "subtypes": [
+        "Redguard"
+      ],
+      "cost": 3,
+      "power": 1,
+      "health": 1,
+      "set": {
+        "id": "mc",
+        "name": "Madhouse Collection",
+        "_self": "https://api.elderscrollslegends.io/v1/sets/mc"
+      },
+      "collectible": true,
+      "soulSummon": "This card belongs to the Madhouse Collection and cannot be Soul Summoned.",
+      "soulTrap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
+      "text": "When you equip an item to another creature, equip a copy of it to Gardener of Swords.",
+      "attributes": [
+        "Intelligence"
+      ],
+      "unique": false,
+      "imageUrl": "https://images.elderscrollslegends.io/mc/gardener_of_swords.png",
+      "id": "3382b01794f9efb0fe9eb23490edc097921b526f"
+    },
+    {
+      "name": "Gardener of Swords",
+      "rarity": "Rare",
+      "type": "Creature",
+      "subtypes": [
+        "Redguard"
+      ],
+      "cost": 3,
+      "power": 1,
+      "health": 1,
+      "set": {
+        "id": "mc",
+        "name": "Madhouse Collection",
+        "_self": "https://api.elderscrollslegends.io/v1/sets/mc"
+      },
+      "collectible": true,
+      "soulSummon": "This card belongs to the Madhouse Collection and cannot be Soul Summoned.",
+      "soulTrap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
+      "text": "When you equip an item to another creature, equip a copy of it to Gardener of Swords.",
+      "attributes": [
+        "Intelligence"
+      ],
+      "unique": false,
+      "imageUrl": "https://images.elderscrollslegends.io/mc/gardener_of_swords.png",
+      "id": "3382b01794f9efb0fe9eb23490edc097921b526f"
+    }
+  ],
+  "_pageSize": 100,
+  "_totalCount": 9
+}

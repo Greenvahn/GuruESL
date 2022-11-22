@@ -1,5 +1,6 @@
 
 import { Link } from "react-router-dom";
+import SeachForm  from '../components/seachForm';
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt
             illo tenetur fuga ducimus numquam ea!
           </p>
+          <SeachForm />
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <Link to="main"

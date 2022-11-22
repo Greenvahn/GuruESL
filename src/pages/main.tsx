@@ -1,5 +1,6 @@
 import Footer from '../components/footer';
 import Header from '../components/header'
+import Cardlist from '../components/cardlist';
 
 const Main = () => {
   
@@ -7,8 +8,12 @@ const Main = () => {
   return (
     <div className="bg-gray-900 text-white flex flex-col h-screen">
       <Header />
-      <main className='flex-grow mx-auto flex h-16 max-w-screen-xl items-center justify-between px-4'>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere congue augue, eget facilisis dolor sagittis at.
+
+      <main className='flex-grow mx-auto items-center justify-between'>
+        <section className='grid grid-cols-3 gap-4'>
+        <Cardlist />
+        </section>
+    
       </main>
       <Footer />
     </div>
