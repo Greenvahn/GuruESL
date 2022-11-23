@@ -1,4 +1,5 @@
 import { useState, ChangeEvent } from 'react'
+// import GetCards from '../hooks/getcards';
 
 const SeachForm = () => {
 
@@ -11,6 +12,7 @@ const SeachForm = () => {
 
   const handleSubmit = (event: ChangeEvent<HTMLFormElement>) => {
     event.preventDefault();
+    // GetCards(cardname)
   }
 
   return (
