@@ -29,7 +29,9 @@ export type cardPropsTypes = {
 
 
 export interface CardData {
-  cards:[],
-  _pageSize: number,
-  _totalCount: number
+  cards:[] | undefined
+}
+
+export type setItem = {
+  setCardName : (el:string) => void;
 }

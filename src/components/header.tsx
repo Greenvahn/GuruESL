@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import Cardicon from "../assets/cardicon";
-import SeachForm from "./seachForm";
+// import SeachForm from "./seachForm";
 
 const Header = () => {
 
@@ -32,7 +32,7 @@ const Header = () => {
             </Link>
           </nav>
 
-          <SeachForm />
+          {/* <SeachForm /> */}
         </div>
       </header>
     </>

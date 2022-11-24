@@ -5,7 +5,7 @@ const Card = ({imageUrl, name, id}:cardPropsTypes):JSX.Element => {
 
   return (
     <>
-      <img className='w-64 cursor-pointer' src={imageUrl} alt={name} id={id} />
+      <img className='w-60 cursor-pointer' src={imageUrl} alt={name} id={id} />
     </>
   )
 }
