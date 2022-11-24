@@ -4,7 +4,11 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        grayheader: '#0a0c12'
+      }
+    },
   },
   variants: {
     fill: ['hover', 'focus'], // this line does the trick
