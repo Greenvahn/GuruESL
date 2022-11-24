@@ -1,11 +1,13 @@
-const Cardicon = () => {
+import { iconSizes } from "../@types/types";
+
+const Cardicon = ({w, h}: iconSizes) => {
   return (
     <>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         className="icon icon-tabler icon-tabler-play-card"
-        width="44"
-        height="44"
+        width={w || '44'}
+        height={h || '44'}
         viewBox="0 0 24 24"
         strokeWidth="1.5"
         stroke="#2c3e50"

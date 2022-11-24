@@ -4,6 +4,11 @@ export type cardPropsTypes = {
   id: string
 }
 
+export type iconSizes = {
+  w:number | undefined | null,
+  h:number | undefined | null
+}
+
 // export interface CardData {
 //   name: string,
 //   rarity: string,
