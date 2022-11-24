@@ -48,4 +48,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 * Implement fetching API (Axios)
   * https://elderscrollslegends.io/
 
-Typescript cheat-code --> https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components
+Typescript cheat-code 
+* https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components
+* https://learnxinyminutes.com/docs/typescript/
+* https://dev.to/ornio/container-view-pattern-in-react-inc-hooks-5404

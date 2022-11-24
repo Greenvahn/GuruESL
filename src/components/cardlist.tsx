@@ -1,17 +1,19 @@
-import cardlist from './../datatest/cardstest.json'
+import { cardPropsTypes } from '../@types/types'
+import Card from './card'
+import GetCards from '../hooks/getcards'
 
-const Cardlist = () => {
+//https://javascript.tutorialink.com/passing-string-literal-as-a-single-prop-in-typescript-react/
 
-  type card = {
-    name: string,
-    imageUrl: string,
-    id: string
-  }
-
+const Cardlist = ({cardname}:{cardname:string}) => {
+const cards = GetCards(cardname);
   return (
     <>
-      {cardlist.cards.map((card: card, idx:number) => {
-        return <img className='w-64 cursor-pointer' src={card.imageUrl} alt={card.name} key={`${idx}_${card.id}`} />
+      {cards?.map((card: cardPropsTypes, idx: number) => {
+        return (
+          <div key={idx}>
+            <Card {...card} />
+          </div>
+        )
       })}
     </>
   )
