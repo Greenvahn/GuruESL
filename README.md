@@ -47,7 +47,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 This SPA uses **unnofficial API** of [The Elder Scrolls: Legends](https://elderscrollslegends.io/) - API by [Andrew Backes](https://andrewbackes.com/). Please refer to the links above for any matters realted to the API.
 
-<p align="center"><img alt="ESLgury diagram" width="10%" height="10%" src="https://github.com/Greenvahn/GuruESL/blob/master/diagram/ESLcards_sm.jpg?raw=true"></p>
+<p align="center"><img alt="ESLgury diagram" width="60%" height="60%" src="https://github.com/Greenvahn/GuruESL/blob/master/diagram/ESLcards_sm.jpg?raw=true"></p>
 
 ## Typescript support
 * https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components
