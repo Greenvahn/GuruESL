@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f06123e3.css",
-    "main.js": "/react-gh-pages/static/js/main.5d471c4e.js",
-    "static/js/787.9286cdc7.chunk.js": "/react-gh-pages/static/js/787.9286cdc7.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f06123e3.css.map": "/react-gh-pages/static/css/main.f06123e3.css.map",
-    "main.5d471c4e.js.map": "/react-gh-pages/static/js/main.5d471c4e.js.map",
-    "787.9286cdc7.chunk.js.map": "/react-gh-pages/static/js/787.9286cdc7.chunk.js.map"
+    "main.css": "/GuruESL/static/css/main.f06123e3.css",
+    "main.js": "/GuruESL/static/js/main.e88f9157.js",
+    "static/js/787.9286cdc7.chunk.js": "/GuruESL/static/js/787.9286cdc7.chunk.js",
+    "index.html": "/GuruESL/index.html",
+    "main.f06123e3.css.map": "/GuruESL/static/css/main.f06123e3.css.map",
+    "main.e88f9157.js.map": "/GuruESL/static/js/main.e88f9157.js.map",
+    "787.9286cdc7.chunk.js.map": "/GuruESL/static/js/787.9286cdc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f06123e3.css",
-    "static/js/main.5d471c4e.js"
+    "static/js/main.e88f9157.js"
   ]
 }
