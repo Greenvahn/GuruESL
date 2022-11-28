@@ -63,3 +63,9 @@ This SPA uses **unnofficial API** of [The Elder Scrolls: Legends](https://elders
 * ~~Implement fetching API (Axios)~~
   * ~~https://elderscrollslegends.io/~~
 * Add Formsearch states
+  * Text format, graphic
+* Create/design logo
+* Hover-over effect on cards
+* Create About page
+  * Basic content
+* Complete Home page
