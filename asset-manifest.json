@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GuruESL/static/css/main.f06123e3.css",
-    "main.js": "/GuruESL/static/js/main.54580731.js",
+    "main.js": "/GuruESL/static/js/main.89391374.js",
     "static/js/787.9286cdc7.chunk.js": "/GuruESL/static/js/787.9286cdc7.chunk.js",
     "index.html": "/GuruESL/index.html",
     "main.f06123e3.css.map": "/GuruESL/static/css/main.f06123e3.css.map",
-    "main.54580731.js.map": "/GuruESL/static/js/main.54580731.js.map",
+    "main.89391374.js.map": "/GuruESL/static/js/main.89391374.js.map",
     "787.9286cdc7.chunk.js.map": "/GuruESL/static/js/787.9286cdc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f06123e3.css",
-    "static/js/main.54580731.js"
+    "static/js/main.89391374.js"
   ]
 }
