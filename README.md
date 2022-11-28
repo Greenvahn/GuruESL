@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# ELS Guru
+This is an unnoficial single page app based on the card's game Elder Scrolls: Legends. The project is currently under construction.
+
+**This project is NOT produced, endorsed, supported, or affiliated with ZeniMax Media Inc.**
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It also uses:
+* [Node.js](https://nodejs.org/en/download/)
+* [NPM](https://www.npmjs.com/)
+* [Tailwindcss](https://tailwindcss.com/)
 
 ## Available Scripts
 
@@ -13,11 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -39,16 +43,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## To Do
+## API
 
-* Create card list
-  * Use dummy data
-* Create single unit card
-* Move search bar to center page
-* Implement fetching API (Axios)
-  * https://elderscrollslegends.io/
+This SPA uses **unnofficial API** of [The Elder Scrolls: Legends](https://elderscrollslegends.io/) - API by [Andrew Backes](https://andrewbackes.com/). Please refer to the links above for any matters realted to the API.
 
-Typescript cheat-code 
+<p align="center"><img alt="ESLgury diagram" width="10%" height="10%" src="https://github.com/Greenvahn/GuruESL/blob/master/diagram/ESLcards_sm.jpg?raw=true"></p>
+
+## Typescript support
 * https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components
 * https://learnxinyminutes.com/docs/typescript/
 * https://dev.to/ornio/container-view-pattern-in-react-inc-hooks-5404
+
+## To Do
+
+* ~~Create card list~~
+  * ~~Use dummy data~~
+* ~~Create single unit card~~
+* ~~Move search bar to center page~~
+* ~~Implement fetching API (Axios)~~
+  * ~~https://elderscrollslegends.io/~~
+* Add Formsearch states
