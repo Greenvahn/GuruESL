@@ -46,7 +46,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `npm run deploy`
 
-Used to deploy on [github pages](https://github.com/gitname/react-gh-pages). Target URL is [https://greenvahn.github.io/GuruESL/](https://greenvahn.github.io/GuruESL/)
+Deploys on [github pages](https://github.com/gitname/react-gh-pages). Target URL is [https://greenvahn.github.io/GuruESL/](https://greenvahn.github.io/GuruESL/)
+
+**Note**
+
+> GitHub Pages doesn’t support routers that use the HTML5 pushState history API under the hood (for example, React Router using `browserHistory`). 
+
+This SPA uses a custom ``404.html`` file and custom code on `index.html` ( both in the public folder). For further info check the GitHub Pages to handle 404s by redirecting to your index.html from [client side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing)
+
 
 ## API
 
@@ -69,6 +76,8 @@ This SPA uses **unnofficial API** of [The Elder Scrolls: Legends](https://elders
   * ~~https://elderscrollslegends.io/~~
 * Add Formsearch states
   * Text format, graphic
+
+* Add search filters and stats
 * Create/design logo
 * Hover-over effect on cards
 * Create About page
