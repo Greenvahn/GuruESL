@@ -65,6 +65,7 @@ This SPA uses **unnofficial API** of [The Elder Scrolls: Legends](https://elders
 * https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components
 * https://learnxinyminutes.com/docs/typescript/
 * https://dev.to/ornio/container-view-pattern-in-react-inc-hooks-5404
+* Type Assertions => https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions
 
 ## To Do
 

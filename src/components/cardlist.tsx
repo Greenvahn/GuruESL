@@ -1,14 +1,11 @@
-import { cardPropsTypes } from '../@types/types'
+import { cardPropsTypes} from '../@types/types'
 import Card from './card'
-import GetCards from '../hooks/getcards'
 
-//https://javascript.tutorialink.com/passing-string-literal-as-a-single-prop-in-typescript-react/
 
-const Cardlist = ({cardname}:{cardname:string}) => {
-const cards = GetCards(cardname);
+const Cardlist = ({ data }:{data:[] | undefined}) => {
   return (
     <>
-      {cards?.map((card: cardPropsTypes, idx: number) => {
+      {data?.map((card: cardPropsTypes, idx: number) => {
         return (
           <div key={idx}>
             <Card {...card} />
