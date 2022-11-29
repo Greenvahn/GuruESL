@@ -34,7 +34,8 @@ export type iconSizes = {
 
 
 export interface CardData {
-  cards:[] | undefined
+  cards:[] | undefined,
+  _totalCount: number
 }
 
 export type setItem = {
