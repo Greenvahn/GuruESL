@@ -75,7 +75,7 @@ This SPA uses **unnofficial API** of [The Elder Scrolls: Legends](https://elders
 * ~~Move search bar to center page~~
 * ~~Implement fetching API (Axios)~~
   * ~~https://elderscrollslegends.io/~~
-* Add Formsearch states
+* ~~Add Formsearch states~~
   * Text format, graphic
 
 * Add search filters and stats

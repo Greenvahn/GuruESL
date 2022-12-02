@@ -7,9 +7,8 @@ const Cardlist = ({ data }:{data:[] | undefined}) => {
     <>
       {data?.map((card: cardPropsTypes, idx: number) => {
         return (
-          <div key={idx}>
-            <Card {...card} />
-          </div>
+          // Diplays only cards with data image...
+          card.imageUrl && <div key={idx}><Card {...card} /></div>
         )
       })}
     </>
