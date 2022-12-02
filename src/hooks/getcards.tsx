@@ -11,11 +11,14 @@ const GetCards = (name: string) => {
       setLoad(true)
       setCardData(undefined)
 
-      const result = axios.get(`https://api.elderscrollslegends.io/v1/cards?name=${name}`)
-      const res = await result;
-
-      res.data !== 'udefined' ? setLoad(false) : setLoad(true)
-      setCardData(res.data)
+      // Only perform search if is any name
+      if (name.length !== 0) {
+        // const result = axios.get(`https://api.elderscrollslegends.io/v1/cards?name=${name}`) // ELSlegends API
+          const result = axios.get(`https://api.magicthegathering.io/v1/cards?name=${name}`) // Magic The Gathering API
+          const res = await result;
+          res.data !== 'udefined' ? setLoad(false) : setLoad(true)
+          setCardData(res.data)
+      }
     }
     fetchData(name);
   }, [name]);

@@ -18,17 +18,14 @@ const Footer = () => {
             </p>
 
             <p className="ml-4 text-sm text-gray-500 mb-4">
-              All data available on <a href="https://elderscrollslegends.io/" target="_blank" rel="noreferrer" className="underline">The Elder Scrolls: Legends - API</a> by <a href="https://andrewbackes.com/" target="_blank" rel="noreferrer" className="underline">Andrew Backes</a>
+              All data available on <a href="https://docs.magicthegathering.io/" target="_blank" rel="noreferrer" className="underline">Magic: The Gathering - API</a> by <a href="https://andrewbackes.com/" target="_blank" rel="noreferrer" className="underline">Andrew Backes</a>
             </p>
           </div>
 
 
           <div className="mx-8 pl-8 border-l-2 border-slate-700">
             <p className="text-xs text-gray-500">
-              This website is not produced, endorsed, supported, or affiliated with ZeniMax Media Inc.
-            </p>
-            <p className="text-xs text-gray-500">
-              ZeniMax Media Inc. Trademarks are the property of their respective owners. All Rights Reserved.
+              This website is not produced, endorsed, supported, or affiliated with Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.
             </p>
           </div>
         </div>
